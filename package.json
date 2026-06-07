@@ -4,6 +4,7 @@
   "description": "Live wireframe preview for React Native",
   "version": "0.0.1",
   "publisher": "shanusingh",
+  "icon": "media/icon.png",
   "engines": {
     "vscode": "^1.100.0"
   },
