@@ -2,7 +2,7 @@
   "name": "rnpreviewer",
   "displayName": "RN Previewer",
   "description": "Live wireframe preview for React Native",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "shanusingh",
   "icon": "media/icon.png",
   "engines": {
@@ -14,12 +14,7 @@
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "rnpreviewer.helloWorld",
-        "title": "Hello World"
-      }
-    ],
+    
     "viewsContainers": {
       "activitybar": [
         {

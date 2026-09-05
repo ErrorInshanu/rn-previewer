@@ -26,7 +26,7 @@ const Profile = () => {
     <View>
       <View style={styles.card}>
         <Image style={styles.avatar} source={{ uri: 'x' }} />
-        <Text style={{ color: 'black' }}>shanu singh</Text>
+        <Text style={{ color: 'red' }}>shanu singh</Text>
       </View>
       <TouchableOpacity>
         <Text>Follow</Text>
